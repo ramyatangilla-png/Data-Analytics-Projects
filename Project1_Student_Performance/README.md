@@ -61,11 +61,11 @@ These measures help understand the distribution and variation of student scores.
 
 # Visualizations
 The following visualizations were created:
-- 📊 Bar Chart
-- 📈 Line Chart
-- 📉 Histogram
-- 🔵 Scatter Plot
-- 🔥 Correlation Heatmap
+- Bar Chart
+- Line Chart
+- Histogram
+- Scatter Plot
+- Correlation Heatmap
 
 ---
 
@@ -114,9 +114,4 @@ Future Improvements
  Author
 RAMYA TANGELLA
 
-Data Analytics Student
 
----
-
-## ⭐ Repository
-If you found this project useful, feel free to explore the repository and the remaining projects in this collection.
