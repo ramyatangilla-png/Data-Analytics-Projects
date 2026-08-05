@@ -1,11 +1,11 @@
-# 📊 Project 1: Student Performance Analysis
+#  Project 1: Student Performance Analysis
 
-## 📌 Overview
+ Overview
 This project focuses on analyzing student academic performance using Exploratory Data Analysis (EDA). The objective is to identify the factors that influence students' exam scores and gain meaningful insights from the dataset using Python.
 
 ---
 
-## 🎯 Objective
+ Objective
 - Analyze student exam performance.
 - Perform data cleaning and preprocessing.
 - Calculate statistical measures.
@@ -16,7 +16,7 @@ This project focuses on analyzing student academic performance using Exploratory
 
 ---
 
-## 📂 Dataset
+ Dataset
 - **Dataset Name:** StudentsPerformance.csv
 - **Source:** Kaggle / UCI Machine Learning Repository
 - **Records:** (Add your number of rows)
@@ -24,7 +24,7 @@ This project focuses on analyzing student academic performance using Exploratory
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python
 - Google Colab
 - Pandas
@@ -34,7 +34,7 @@ This project focuses on analyzing student academic performance using Exploratory
 
 ---
 
-## 📋 Project Workflow
+ Project Workflow
 1. Import required libraries.
 2. Load the dataset.
 3. Explore the dataset.
@@ -47,8 +47,7 @@ This project focuses on analyzing student academic performance using Exploratory
 10. Summarize findings.
 
 ---
-
-## 📊 Statistical Analysis
+ Statistical Analysis
 The following statistical measures were calculated:
 - Mean
 - Median
@@ -60,7 +59,7 @@ These measures help understand the distribution and variation of student scores.
 
 ---
 
-## 📈 Visualizations
+# Visualizations
 The following visualizations were created:
 - 📊 Bar Chart
 - 📈 Line Chart
@@ -70,7 +69,7 @@ The following visualizations were created:
 
 ---
 
-## 📷 Output Screenshots
+ Output Screenshots
 
 ### Dataset Preview
 ![Dataset Preview](Outputs/dataset_preview.png)
@@ -87,12 +86,11 @@ The following visualizations were created:
 ### Scatter Plot
 ![Scatter Plot](Outputs/scatter_plot.png)
 
-### Correlation Heatmap
-![Heatmap](Outputs/heatmap.png)
+
 
 ---
 
-## 🔍 Key Insights
+ Key Insights
 - Female students generally scored higher in reading and writing.
 - Students who completed the test preparation course performed better on average.
 - Reading and writing scores have a strong positive correlation.
@@ -101,20 +99,20 @@ The following visualizations were created:
 
 ---
 
-## 📌 Conclusion
+Conclusion
 This project demonstrates how Exploratory Data Analysis can be used to understand student performance. By cleaning the data, analyzing statistical measures, identifying correlations, and creating visualizations, valuable insights were obtained regarding the factors affecting student scores.
 
 ---
 
-## 🚀 Future Improvements
+Future Improvements
 - Apply machine learning models to predict student performance.
 - Build an interactive dashboard using Power BI or Tableau.
 - Compare multiple student datasets for deeper analysis.
 
 ---
 
-## 👨‍💻 Author
-**Your Name**
+ Author
+RAMYA TANGELLA
 
 Data Analytics Student
 
